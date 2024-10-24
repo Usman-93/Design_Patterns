@@ -1,0 +1,14 @@
+C:\Users\UsmanRahat(AgileAnal\source\repos\.NET_Practice\Design_Patterns\1. Simple_Factory\bin\Debug\net6.0\1. Simple_Factory.exe
+C:\Users\UsmanRahat(AgileAnal\source\repos\.NET_Practice\Design_Patterns\1. Simple_Factory\bin\Debug\net6.0\1. Simple_Factory.deps.json
+C:\Users\UsmanRahat(AgileAnal\source\repos\.NET_Practice\Design_Patterns\1. Simple_Factory\bin\Debug\net6.0\1. Simple_Factory.runtimeconfig.json
+C:\Users\UsmanRahat(AgileAnal\source\repos\.NET_Practice\Design_Patterns\1. Simple_Factory\bin\Debug\net6.0\1. Simple_Factory.dll
+C:\Users\UsmanRahat(AgileAnal\source\repos\.NET_Practice\Design_Patterns\1. Simple_Factory\bin\Debug\net6.0\1. Simple_Factory.pdb
+C:\Users\UsmanRahat(AgileAnal\source\repos\.NET_Practice\Design_Patterns\1. Simple_Factory\obj\Debug\net6.0\1. Simple_Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UsmanRahat(AgileAnal\source\repos\.NET_Practice\Design_Patterns\1. Simple_Factory\obj\Debug\net6.0\1. Simple_Factory.AssemblyInfoInputs.cache
+C:\Users\UsmanRahat(AgileAnal\source\repos\.NET_Practice\Design_Patterns\1. Simple_Factory\obj\Debug\net6.0\1. Simple_Factory.AssemblyInfo.cs
+C:\Users\UsmanRahat(AgileAnal\source\repos\.NET_Practice\Design_Patterns\1. Simple_Factory\obj\Debug\net6.0\1. Simple_Factory.csproj.CoreCompileInputs.cache
+C:\Users\UsmanRahat(AgileAnal\source\repos\.NET_Practice\Design_Patterns\1. Simple_Factory\obj\Debug\net6.0\1. Simple_Factory.dll
+C:\Users\UsmanRahat(AgileAnal\source\repos\.NET_Practice\Design_Patterns\1. Simple_Factory\obj\Debug\net6.0\refint\1. Simple_Factory.dll
+C:\Users\UsmanRahat(AgileAnal\source\repos\.NET_Practice\Design_Patterns\1. Simple_Factory\obj\Debug\net6.0\1. Simple_Factory.pdb
+C:\Users\UsmanRahat(AgileAnal\source\repos\.NET_Practice\Design_Patterns\1. Simple_Factory\obj\Debug\net6.0\1. Simple_Factory.genruntimeconfig.cache
+C:\Users\UsmanRahat(AgileAnal\source\repos\.NET_Practice\Design_Patterns\1. Simple_Factory\obj\Debug\net6.0\ref\1. Simple_Factory.dll
