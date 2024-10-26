@@ -11,7 +11,7 @@ namespace _1._Simple_Factory.BankAccountFactory
 {
     public class BankAccountFactory
     {
-        public static IBankAccount createBankAccount(string accountType)
+        public static IBankAccount? createBankAccount(string accountType)
         {
             if (accountType == "OffsetAccount")
             {

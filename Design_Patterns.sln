@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Simple_Factory", "1. Simple_Factory\1. Simple_Factory.csproj", "{331E006E-6E3F-42F1-9A98-BC965C9F68E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Factory_Method", "2. Factory_Method\2. Factory_Method.csproj", "{03D28DB8-0BAF-44BF-AF19-4AD964911383}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Factory_Method", "2. Factory_Method\2. Factory_Method.csproj", "{03D28DB8-0BAF-44BF-AF19-4AD964911383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Abstract_Factory", "3. Abstract_Factory\3. Abstract_Factory.csproj", "{3D557765-480E-42AC-80AD-DE29E9EB2F92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{03D28DB8-0BAF-44BF-AF19-4AD964911383}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03D28DB8-0BAF-44BF-AF19-4AD964911383}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03D28DB8-0BAF-44BF-AF19-4AD964911383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D557765-480E-42AC-80AD-DE29E9EB2F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D557765-480E-42AC-80AD-DE29E9EB2F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D557765-480E-42AC-80AD-DE29E9EB2F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D557765-480E-42AC-80AD-DE29E9EB2F92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
